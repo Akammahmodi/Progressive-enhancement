@@ -1,0 +1,10 @@
+body {background-color: rgb(13, 44, 44)}
+{background-image: url('https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg');
+    height: 150px;
+    width: 150px;
+    background-size:cover;
+    background-position: center;
+}
+h1 {color: rgb(255, 102, 0); }
+
+}
