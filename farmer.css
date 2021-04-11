@@ -1,14 +1,11 @@
-<<<<<<< HEAD
-body {background-color: rgb(13, 44, 44)}
-{background-image: url('https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg');
-    height: 150px;
-    width: 150px;
-    background-size:cover;
-    background-position: center;
-}
-h1 {color: rgb(255, 102, 0); }
+body {background-color: rgb(204, 241, 213);}
 
-}
-=======
-body {background-color: rgb(211, 219, 93);}
->>>>>>> 958bd2f13fe8874f8592c4f174f8db1fc3863a97
+h1 {font-size: 50px;
+       font-style: andalus;
+       text-align: center;
+    }
+    figure {display: block;
+        margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+    }
