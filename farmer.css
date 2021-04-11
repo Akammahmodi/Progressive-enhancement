@@ -1,7 +1,38 @@
-body {background-color: rgb(204, 241, 213);}
+body {background-color: rgb(204, 241, 213);
+    width: 90%;
+    text-align:center;
+    margin:0 auto;}
+
+    ul.new {  list-style-position: inside;
+        text-align: center;
+    }
+    blockquote {
+        display:block;
+        margin:auto;
+        text-align: center;
+        width: 700px;
+        font-size: 160%;
+        background-color: rgb(222, 225, 226);
+        border-left: 3px ridge;
+}
+
+q {
+    display:block;
+    margin:auto;
+    text-align: center;
+    width: 800px;
+    height: auto;
+    font-size: 160%;
+    background-color: rgb(222, 225, 226);
+    border-left: 3px ridge;
+}
+table {
+margin-left: auto;
+margin-right: auto;
+}
 
 h1 {font-size: 50px;
-       font-style: andalus;
+       font-style:italic;
        text-align: center;
     }
     figure {display: block;
@@ -9,3 +40,8 @@ h1 {font-size: 50px;
   margin-right: auto;
   width: 70%;
     }
+    table {color: rgb(105, 26, 26);
+    }
+p {color: rgb(105, 26, 26);
+   font-style: serif;
+}
