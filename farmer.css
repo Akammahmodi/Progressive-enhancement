@@ -1,13 +1,12 @@
 body {background-color: rgb(204, 241, 213);
-    width: 90%;
-    text-align:center;
-    margin:0 auto;
-
+        width: 90%;
+        text-align:center;
+        margin:0 auto;
         background-image: url('5.jpg');
         background-size: cover;
         background-position: bottom right;
-      }
-    
+        
+}
     ul.new {  list-style-position: inside;
         text-align: center;
     }
