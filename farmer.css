@@ -1,34 +1,42 @@
 body {background-color: rgb(204, 241, 213);
     width: 90%;
     text-align:center;
-    margin:0 auto;}
+    margin:0 auto;
 
+        background-image: url('5.jpg');
+        background-size: cover;
+        background-position: bottom right;
+      }
+    
     ul.new {  list-style-position: inside;
         text-align: center;
     }
     blockquote {
         display:block;
         margin:auto;
-        text-align: center;
+        text-align: left;
         width: 700px;
         font-size: 160%;
-        background-color: rgb(222, 225, 226);
-        border-left: 3px ridge;
+        font-style: italic;
 }
+
+table {
+     margin-left: auto;
+  margin-right: auto;
+}
+
 
 q {
     display:block;
-    margin:auto;
+    margin:80px auto;
     text-align: center;
     width: 800px;
     height: auto;
     font-size: 160%;
     background-color: rgb(222, 225, 226);
-    border-left: 3px ridge;
-}
-table {
-margin-left: auto;
-margin-right: auto;
+    border-left: 3px dashed;
+    font-style: italic;
+    padding: 30px;
 }
 
 h1 {font-size: 50px;
@@ -44,4 +52,7 @@ h1 {font-size: 50px;
     }
 p {color: rgb(105, 26, 26);
    font-style: serif;
-}
+  text-align: center;}
+  p:first-of-type {font-weight: bold;
+
+  }
